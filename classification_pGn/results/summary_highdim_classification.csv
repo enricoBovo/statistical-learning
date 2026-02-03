@@ -1,0 +1,14 @@
+Metric,Value
+Model,Elastic Net
+n observations,62
+p genes (original),2000
+p genes (selected),100
+Ratio p/n,32.3
+CV Accuracy (mean),0.8564
+CV Accuracy (sd),0.0622
+CV F1-Score (mean),0.8857
+Training Accuracy,0.9839
+AUC,1.0000
+Stable genes (≥80%),71
+Top gene (Tumor),Hsa.5398
+Top gene (Normal),Hsa.692.2

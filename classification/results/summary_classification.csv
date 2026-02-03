@@ -1,0 +1,13 @@
+Metric,Value
+Model,Random Forest
+n observations,4898
+n features,11
+n classes,3
+CV Accuracy (mean),0.7266
+CV Accuracy (sd),0.0096
+CV F1-Score (mean),0.7232
+CV Precision (mean),0.7461
+CV Recall (mean),0.7098
+Training Accuracy,1.0000
+Training F1-Score,1.0000
+AUC medio,1.0000

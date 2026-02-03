@@ -1,0 +1,13 @@
+Metric,Value
+Model,Elastic Net
+n observations,64
+p genes (original),3116
+p genes (selected),100
+Ratio p/n,48.7
+CV RMSE (mean),0.1897
+CV RMSE (sd),0.0358
+CV MAE (mean),0.1466
+CV R² (mean),0.2631
+Training RMSE,0.1542
+Training R²,0.6442
+Stable genes (≥80%),62

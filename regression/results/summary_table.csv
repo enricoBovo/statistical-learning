@@ -1,0 +1,10 @@
+Metric,Value
+Model,Random Forest
+n observations,4898
+n features,11
+CV RMSE (mean),0.6030
+CV RMSE (sd),0.0281
+CV MAE (mean),0.4285
+CV R² (mean),0.5348
+Training RMSE,0.2135
+Training R2,0.9419
